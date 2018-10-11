@@ -47,18 +47,22 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo-tough-interiors-128x76.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
     "html_before": "",
     "headbody": "",
     "botbody": "",
-    "siteUrl": "undefined",
+    "siteUrl": "https://indebio.github.io/toughinteriors/",
     "versionFirst": "4.7.7",
     "uniqCompNum": 13,
     "versionPublish": "4.8.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
