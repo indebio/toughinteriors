@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "linktree TOUGH INTERIORS",
+    "name": "indebio-TOUGH INTERIORS-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "portfoliom4",
@@ -57,7 +57,7 @@
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
     "uniqCompNum": 13,
-    "versionPublish": "4.7.8",
+    "versionPublish": "4.8.5",
     "screenshot": "screenshot.png"
   },
   "pages": {
