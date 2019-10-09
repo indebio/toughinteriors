@@ -47,31 +47,34 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo-tough-interiors-128x76.png",
-    "noImageResize": "true",
+    "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
     "html_before": "",
     "headbody": "",
     "botbody": "",
-    "siteUrl": "https://indebio.github.io/toughinteriors/",
+    "siteUrl": "https://toughinteriors.nl",
     "versionFirst": "4.7.7",
     "uniqCompNum": 13,
-    "versionPublish": "4.8.5",
+    "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
+    "PWA": {
+      "enabled": false
+    },
     "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "TOUGH INTERIORS - linktree",
-        "header_custom": "",
-        "footer_custom": "",
+        "title": "Links van Tough Interiors uit Noord Holland.",
+        "meta_descr": "TOUGH INTERIORS - Links voor social media.",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRCGBMQ');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRCGBMQ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
         "html_before": ""
       },
       "components": [
