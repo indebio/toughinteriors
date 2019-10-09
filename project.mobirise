@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-tough-interiors-128x76.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-tough-interiors-transparant-128x72.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
@@ -59,7 +59,7 @@
     "uniqCompNum": 13,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "PWA": {
@@ -73,7 +73,7 @@
         "main": true,
         "title": "Links van Tough Interiors uit Noord Holland.",
         "meta_descr": "TOUGH INTERIORS - Links voor social media.",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W4RRFV8');</script>\n<!-- End Google Tag Manager -->",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W4RRFV8');</script>\n<!-- End Google Tag Manager -->\n\n\n<meta name=\"keywords\" content=\"\nursem, toughinteriors, tafel, stoere tafel, salontafel, timmerman, woonidee, duurzaam, industrial meubels, meubelmaker, handgemaakt, houten meubels, bank, keuken, kasten, kapstok, rene braas\">",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-W4RRFV8\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
         "html_before": ""
       },
